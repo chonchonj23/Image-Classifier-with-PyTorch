@@ -16,10 +16,10 @@ There are 102 flower categories in the dataset, and we need to classify them as 
 
 Packages used in this project include:
 
-numpy
-pandas 
-matplotlib
-seaborn 
-torch
+numpy<br/>
+pandas<br/> 
+matplotlib<br/>
+seaborn<br/> 
+torch<br/>
 torchvision 
 
